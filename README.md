@@ -1,7 +1,7 @@
 # esp8266-core-module
-a tiny wifi module designed with esp8266 
+a tiny esp8266 wifi module designed with kicad. 
 
-This is a esp8266 core module designed with kicad, for reduce the pcb size when you use relay.
+This is a esp8266 core module designed with kicad 6.0, for reduce the pcb size when you use relay.
 
 
 ![4](https://user-images.githubusercontent.com/33096611/206235885-68440187-1c60-4d96-a12b-499af4004a28.png)
